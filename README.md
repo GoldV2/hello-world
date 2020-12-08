@@ -10,10 +10,10 @@ Goals -- >
 
 Branches
 1. Master Branch
-  1. hello_world.txt
+   1. hello_world.txt
 
 2. Branch 1
-  1. branch1.txt
+   1. branch1.txt
 
 3. Branch 2
-  1. branch2.txt
+   1. branch2.txt
